@@ -63,5 +63,5 @@ Purvi Porwal
 
 🔗 LinkedIn Profile : www.linkedin.com/in/purvi-porwal-a6554a258
 
-git clone https://github.com/your-username/ev-adoption-dashboard.git
+git clone https://github.com/PurviGit/EV_FORCASTING.git
 cd ev-adoption-dashboard
