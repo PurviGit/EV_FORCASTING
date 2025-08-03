@@ -43,13 +43,21 @@ Once running, open the displayed localhost or Network URL link in your browser.
 
 📁 Project Structure
 EV-FORCASTING/
+
 ├── EV_Forcasting.ipynb # Jupyter Notebook for EDA & model experimentation
+
 ├── Electric_Vehicle_Population_By_County.csv # Raw dataset
+
 ├── preprocessed_ev_data.csv # Cleaned and preprocessed dataset
+
 ├── forecasting_ev_model.pkl # Trained forecasting model
+
 ├── app.py # Main Streamlit app file
+
 ├── ev-car-factory.jpg # Header image for the app
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project documentation (you're reading this!)
 
 📌 Notes
@@ -59,10 +67,8 @@ If you encounter issues like IndexError: list index out of range, make sure your
 
 ✍️ Author
 Purvi Porwal
-👩‍💻 AICTE Internship Cycle 2 – AIECTE Edunet Shell Internship 
+👩‍💻 AICTE Internship Cycle 2 – AICTE Edunet Shell Internship 
 
 🔗 LinkedIn Profile : www.linkedin.com/in/purvi-porwal-a6554a258
 
-git clone https://github.com/PurviGit/EV_FORCASTING.git
 
-cd ev-adoption-dashboard
