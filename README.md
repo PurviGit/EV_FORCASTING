@@ -60,6 +60,8 @@ If you encounter issues like IndexError: list index out of range, make sure your
 ✍️ Author
 Purvi Porwal
 👩‍💻 AICTE Internship Cycle 2 – AIECTE Edunet Shell Internship 
+
 🔗 LinkedIn Profile : www.linkedin.com/in/purvi-porwal-a6554a258
+
 git clone https://github.com/your-username/ev-adoption-dashboard.git
 cd ev-adoption-dashboard
